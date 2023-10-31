@@ -26,11 +26,11 @@ Below is the directory structure of the scripts for creating daily, monthly and 
 
 ```
 ### Scripts Descriptions
-* **<ins>daily_report_creation.sh</ins>** - Use to create daily machine utilization report in spreadsheet.(**Linux**)
-* **<ins>daily_report_creation.cmd</ins>** - Use to create daily machine utilization report in spreadsheet.(**Windows**)
-* **<ins>monthly_report_creation.sh</ins>** - Use to create monthly machine utilization report in spreadsheet.(**Linux**)
+* **<ins>daily_report_creation.sh</ins>**    - Use to create daily machine utilization report in spreadsheet.(**Linux**)
+* **<ins>daily_report_creation.cmd</ins>**   - Use to create daily machine utilization report in spreadsheet.(**Windows**)
+* **<ins>monthly_report_creation.sh</ins>**  - Use to create monthly machine utilization report in spreadsheet.(**Linux**)
 * **<ins>monthly_report_creation.cmd</ins>** - Use to create monthly machine utilization report in spreadsheet.(**Windows**)
-* **<ins>summary_report_creation.sh</ins>** - Use to create summary machine utilization report in spreadsheet.(**Linux**)
+* **<ins>summary_report_creation.sh</ins>**  - Use to create summary machine utilization report in spreadsheet.(**Linux**)
 * **<ins>summary_report_creation.cmd</ins>** - Use to create summary machine utilization report in spreadsheet.(**Windows**)
 
 ## Usage in Linux
